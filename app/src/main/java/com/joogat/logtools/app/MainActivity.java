@@ -1,4 +1,4 @@
-package com.joogat.logger.app;
+package com.joogat.logtools.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.joogat.logger.app;
+package com.joogat.logtools;
 
 import org.junit.Test;
 

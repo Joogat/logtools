@@ -1,4 +1,4 @@
-package com.joogat.logger;
+package com.joogat.logtools;
 
 import android.util.Log;
 

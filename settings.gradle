@@ -1,2 +1,2 @@
-include ':app', ':logger'
+include ':app', ':logtools'
 rootProject.name='Joogat Logger'
